@@ -52,4 +52,4 @@ if __name__ == '__main__':
 
         trees_list.append(trees_found)
 
-    trees_prod = prod(trees_list)  
+    trees_prod = prod(trees_list)
